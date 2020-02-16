@@ -2,8 +2,7 @@
 int main()
 {
   int a,b;
-  a = 15;
-  b = 25;
+  scanf("%d%d",&a,&b);
   int c = a+b;
   printf("%d",c);
   return 0;
