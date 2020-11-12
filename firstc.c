@@ -1,9 +1,10 @@
 #include<stdio.h>
+#include<string.h>
 int main()
 {
-  int a,b;
-  scanf("%d%d",&a,&b);
-  int c = a+b;
-  printf("%d",c);
+  int c,d
+  scanf("%d%d",&c,&d);
+  int x = c+d;
+  printf("%d",x);
   return 0;
 }
